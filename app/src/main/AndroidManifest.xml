@@ -22,7 +22,7 @@
         <!--模块兼容版本-->
         <meta-data
             android:name="xposedminversion"
-            android:value="54" />
+            android:value="82" />
 
         <activity android:name=".MainActivity">
             <intent-filter>
